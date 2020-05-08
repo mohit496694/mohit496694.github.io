@@ -1,0 +1,27 @@
+Todos:
+
+1.Build the project
+	-creating the folder
+	-adding files
+	-connecting files
+
+2.NavBar
+	-2 links and a name
+
+3.portfolio item grid
+	-images
+	-titles
+	-descriptions
+	-animations
+	-javascript
+
+4.About page
+	-image
+	-split column layout
+	-content
+To do now:
+-add music
+-hoisting
+-mobile compatible
+-add content
+(family,friends,coding,dreams(northern lights))
