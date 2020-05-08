@@ -89,6 +89,18 @@ body{
 	font-weight: 600;
 	color: transparent;
 }
+/*my addition*/
+.img-text-wrapper .subtitle a {
+	transition: 1s;
+	font-weight: 600;
+	color: transparent;
+}
+
+.img-text-wrapper:hover .subtitle a {
+	font-weight: 600;
+	color: #8a8a8a;
+}
+/*my end*/
 
 .img-text-wrapper:hover .subtitle{
 	font-weight: 600;
@@ -98,6 +110,8 @@ body{
 	transition: 1s;
 	filter: brightness(10%);
 }
+
+
 /* about page styles*/
 .two-column-wrapper{
 	display: grid;
