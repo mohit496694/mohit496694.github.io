@@ -27,8 +27,8 @@ body{
 }
 .nav-link-wrapper{
 	height: 22px;
-	border-bottom: 1px solid transparent;
-	transition: border-bottom 0.5s;
+	/*border-bottom: 1px solid transparent;
+	transition: border-bottom 0.5s;*/
 }
 .nav-link-wrapper a {
 	color: #8a8a8a;
@@ -36,13 +36,13 @@ body{
 	transition: color 0.5s;
 }
 .nav-link-wrapper:hover {
-	border-bottom: 1px solid black;
+	/*border-bottom: 1px solid black;*/
 }
 .nav-link-wrapper a:hover {
 	color: black;
 }
 .active{
-	border-bottom: 1px solid black;
+	/*border-bottom: 1px solid black;*/
 }
 .active a {
 	color: black !important;
