@@ -120,6 +120,7 @@ body{
 .profile-img-wrapper img{
 	width: 90%;
 	height: 500px;
+	padding: 30px;
 
 }
 .profile-content-wrapper{
